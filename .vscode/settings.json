@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "stm32746g_discovery_audio.h": "c"
+        "stm32746g_discovery_audio.h": "c",
+        "lv_version.h": "c"
     }
 }

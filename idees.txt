@@ -1,0 +1,14 @@
+moteur pas à pas controlé par l'encodeur 
+
+sur l'affichage: 
+-afficher l'angle 
+-mettre un bouton pour set le 0
+-mettre un bouton pour reset la position (si on fait 300° et qu'on appuie sur le bouton, le moteur fait -300° pour retourner à la position
+0 qu'on aura set avant)
+
+
+
+
+Roue de la fortune: 
+-trouver le moyens de faire tourner une roue en vrai avec le codeur 
+-affichage d'une roue de la fortune en fonctione de la position du codeur sur l'écran 
